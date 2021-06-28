@@ -1,0 +1,155 @@
+.header{
+    background-color: black;
+    color:  #e9921e;
+    font-size: 30px;
+    font-family: Tomorrow, sans-serif;
+    text-align: center;
+    padding: 10px; 
+    margin-top: -16px;
+    margin-left: -50px;
+    margin-right: -20px;
+}
+
+body{
+    background-image: url(../imgs/imgdetran.jpg);
+    position: relative;
+    background-size: cover;
+
+}
+
+.divG{
+    border-top: 10px solid #e9921e;
+    border-bottom: 10px solid #e9921e;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+    background-color:white;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding-left: 10%;
+    padding-right: 10px;
+}
+
+.funcs{
+    text-align: center;
+    margin-left: -150px;
+}
+
+.testeTilti{
+    text-align: center;
+    text-decoration:underline;   
+    margin-left: -150px;
+    margin-bottom: -20px;
+   }
+
+.tituloCad{
+    margin-bottom: -40px;
+    margin-top: 150px;
+    text-align: center;
+    text-decoration:underline;   
+    margin-left: -150px;
+}
+
+.multasstyle{
+    text-align: justify;
+    margin-left: 180px;
+    margin-right: 180px;
+    border-top: 10px solid  black;
+    border-bottom: 10px solid black;
+    border-left: 10px solid #e9921e;
+    border-right: 10px solid #e9921e;
+}
+
+.style-form{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 180px;
+    margin-left: 30px;
+    padding: 30px;
+    text-align: center;
+    border-top: 10px solid  black;
+    border-bottom: 10px solid black;
+    border-left: 10px solid #e9921e;
+    border-right: 10px solid #e9921e;
+}
+
+.input-block{
+    text-align: none;
+    margin-top: 10px;
+}
+
+li{
+    list-style-type: none;
+}
+
+.teste{
+    float: left;
+    margin-left: 230px;
+    margin-top: 20px;
+    padding-top: 50px;
+    background-image: url(../imgs/logo-detran.png);
+    height: 20px;
+    width: 20px;
+    padding-right: 55px;
+    padding-bottom: 20px;
+    position: absolute;
+    background-size: cover;
+}
+
+.logo{
+    padding-top: 50px;
+    background-image: url(../imgs/logo-detran.png);
+    height: 1px;
+    width: 1px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    position: absolute;
+}
+
+.footer{
+    position: relative;
+    padding:10px;
+    text-align: center;
+    background-color:black;
+    color:  #e9921e;
+    margin-left: -50px;
+    margin-right: -20px;
+    margin-bottom: -16px;
+}
+
+.botdel{
+    font-size: 15px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    color:black;
+    background-color: #e9921e;
+    border-top: 3px solid #8f5b18;
+    border-bottom: 3px solid #8f5b18;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    margin-left: 200px;
+    margin-bottom: 10px;
+}
+
+.botobt{
+    font-size: 15px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    color:black;
+    background-color: #e9921e;
+    border-top: 3px solid #e9921e;
+    border-bottom: 3px solid #e9921e;
+    border-left: 3px solid #e9921e;
+    border-right: 3px solid #e9921e;
+    margin-bottom: 10px;
+}
+
+.botcad{
+    margin-top: 20px;
+    font-size: 15px;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    color:black;
+    background-color: #e9921e;
+    border-top: 3px solid #8f5b18;
+    border-bottom: 3px solid #8f5b18;
+    border-left: 3px solid black;
+    border-right: 3px solid black;
+    margin-bottom: 10px;
+}

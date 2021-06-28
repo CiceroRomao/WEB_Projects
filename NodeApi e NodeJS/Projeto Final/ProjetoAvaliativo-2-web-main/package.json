@@ -1,0 +1,22 @@
+{
+  "name": "NODE-API",
+  "version": "1.0.0",
+  "description": "segundo trabalho avaliativo de web- contruçao de um CRUD basico utilizando Robo3t-Docker-monggodb-insominia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "nod": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "João Victor Costa de Lima- Cícero Romão Ribeiro Pereira Filho- Francisca Liliane da Silva",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.19",
+    "require-dir": "^1.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}

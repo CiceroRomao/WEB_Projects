@@ -1,0 +1,110 @@
+#bodyy {
+    background-color: black;
+}
+
+.piculiar {
+    color: white;
+    font-size: 15px;
+    font-family: Arial;
+    margin-left: 100px;
+    margin-top: 15px;
+}
+
+.bot1 {
+    background-color: black;
+    padding-top: 15px;
+    padding-right: 40px;
+    float: right;
+    position: relative;
+    margin-top: -20px;
+    margin-right: 300px;
+}
+
+.bot2 {
+    background-color: blue;
+    padding-top: 15px;
+    padding-right: 40px;
+    float: right;
+    position: relative;
+    margin-top: -20px;
+    margin-right: 400px;
+}
+
+.bot3 {
+    background-color: gray;
+    padding-top: 15px;
+    padding-right: 40px;
+    float: right;
+    position: relative;
+    margin-top: -20px;
+    margin-right: 500px;
+}
+
+.forml {
+    margin-top: 100px;
+    margin-right: 750px;
+    margin-left: 70px;
+    padding: 30px;
+    
+}
+
+.titulo {
+    color: white;
+    text-align: left;
+    font-family: Arial;
+    font-size: 50px;
+}
+
+#labelnome {
+    color: white;
+    margin-left: 30px;
+}
+
+#labelmsg {
+    color: white;
+}
+
+#nome {
+    margin-bottom: 10px;
+    margin-right: 180px;
+}
+#mensagem{
+    margin-bottom: 10px;
+    margin-right: 180px;
+}
+.enviar{
+    margin-left: 193px;
+    text-align: center;
+    padding-right: 10px;
+    padding-left: 10px;
+    font-family: Arial;
+}
+#containermsgs{
+    padding-left: 100px;
+    margin-left: 70px;
+    text-align: left;
+    margin-right: 750px;
+    list-style-type: none;
+    color: white;
+    font-family: Arial;
+
+}
+.excluir{
+    background-color: white; 
+    padding-right:10px; 
+    padding-left:10px;
+    margin-left: 10px;
+}
+.rodape{
+    text-align: center;
+    margin-top: 150px;
+}
+.trabalho1{
+    float: right;
+    position: relative;
+    color: white;
+    font-size: 15px;
+    font-family: Arial;
+    margin-right: 80px;
+    margin-top: -20px;
+}
